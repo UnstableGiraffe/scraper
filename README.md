@@ -1,2 +1,2 @@
 # scraper
-web scraper repo
+Bozu Web Scraper Repo
