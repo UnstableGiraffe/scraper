@@ -1,0 +1,14 @@
+    Webscraping is unethical only in the way that any automated computer script is 
+unethical. Sure, theres plenty of unethical things you can *do* with a web scraper, 
+but that is determined by how its used. Talking about the ethics of web scrapers as 
+a whole is useless, its like talking about the ethics of knives, sure lots of people 
+have gotten stabbed, but most use cases for them are helpful and harmless.
+
+     Another aspect is the archival benefit to them, as any time someone writes a web 
+scraper and doesnt delete the output *some* data about that site will stick around. For 
+something like what were writing here, if somehow all of the sites we scraped are lost, 
+whatever output we ended up with can still be used to reconstruct some idea of what was on 
+them. Additionally, it is literally impossible to allow people to access a website without 
+giving them the ability to extract the data that is on it automatically, so any conversation 
+as to the ethics of that extraction is useless, anyone who wants to scrape data for 
+unethicall purposes will still do so.
